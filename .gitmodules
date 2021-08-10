@@ -1,0 +1,18 @@
+[submodule "PolyDiceGenerator"]
+	path = PolyDiceGenerator
+	url = git@github.com:charmaur/PolyDiceGenerator.git
+[submodule "LEGO.scad"]
+	path = LEGO.scad
+	url = git@github.com:cfinke/LEGO.scad.git
+[submodule "The-Boardgame-Insert-Toolkit"]
+	path = The-Boardgame-Insert-Toolkit
+	url = git@github.com:IdoMagal/The-Boardgame-Insert-Toolkit.git
+[submodule "PolyGear"]
+	path = PolyGear
+	url = git@github.com:dpellegr/PolyGear.git
+[submodule "KeyV2"]
+	path = KeyV2
+	url = git@github.com:rsheldiii/KeyV2.git
+[submodule "BOSL2"]
+	path = BOSL2
+	url = git@github.com:revarbat/BOSL2.git
