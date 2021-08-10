@@ -2,7 +2,7 @@
 	path = PolyDiceGenerator
 	url = git@github.com:charmaur/PolyDiceGenerator.git
 [submodule "LEGO.scad"]
-	path = LEGO.scad
+	path = LEGO
 	url = git@github.com:cfinke/LEGO.scad.git
 [submodule "The-Boardgame-Insert-Toolkit"]
 	path = The-Boardgame-Insert-Toolkit

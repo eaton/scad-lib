@@ -17,3 +17,8 @@ Most libraries — because they're available here on GitHub — are included as 
 - [LEGO](https://github.com/cfinke/LEGO.scad): Assorted LEGO bricks and plates. Aliased as `lego.scad`.
 - [PolyDice](https://github.com/charmaur/PolyDiceGenerator/): Polyhedral dice; most require resin prints to turn out, but larger dice work even with FDM. Aliased as `dice.scad`.
 - [DragonLock](https://example.com/): A Jeff Eaton special; generates Dragonlock-compatible bases for tabletop gaming terrain. Aliased as `dragonlock.scad`.
+- [Ultimate Box Maker](https://www.thingiverse.com/thing:1264391): Spits out durable (if filament-hungry) cases for various electronics projects. Aliased as `box.scad`.
+- [Parametric Hinge](https://www.thingiverse.com/thing:2187167): Print-in-place compatible butt hinges. Aliased as `hinge.scad`
+- [Parametric Cable Chain](https://www.thingiverse.com/thing:1078216): Printer-friendly library for spitting out cable chains of various sizes and lengths. Aliased as `cable-chain.scad`
+- [GoPro Mounts](https://www.thingiverse.com/thing:62800): Assorted connector styles for the ubiquitous GoPro Camera mounts; can be integrated into other models as connection points. Aliased as `gopro.scad`.
+- [Ultimate Nut/Knob Generator](https://www.thingiverse.com/thing:713300):  Handles and knobs for various hex wrenches, bits, nuts, and holts. Aliased as `nut-knobs.scad`.
